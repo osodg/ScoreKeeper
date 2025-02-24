@@ -1,0 +1,1 @@
+# This is a simple score keeping app to practice my JavaScript.
